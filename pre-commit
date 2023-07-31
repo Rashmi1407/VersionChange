@@ -1,0 +1,3 @@
+#!/bin/bash
+./version_incrementer.exe
+git add file2.txt
