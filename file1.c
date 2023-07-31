@@ -6,5 +6,6 @@ for(int i=0;i<10;i++){
     sum=sum+a[i];
 }    
 printf("sum=%d",sum);
+    
 }
 //system("./increment_version.sh");
